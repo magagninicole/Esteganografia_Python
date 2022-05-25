@@ -1,6 +1,6 @@
 # Esteganografia
 
-<b>Dupla:<b> João Vitor Specht Kogut e Nicole Magagnin <br>
+<b>Dupla:</b> João Vitor Specht Kogut e Nicole Magagnin <br>
 
 O objetivo do trabalho da M2.2 é trabalhar com esteganografia em imagens. Dada uma imagem, devem ser implementados os algoritmos para esconder uma mensagem e para ler uma mensagem escondida.<br>
 
